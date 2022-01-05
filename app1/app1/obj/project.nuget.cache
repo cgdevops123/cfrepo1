@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OvsU5RsF0fbU9I4kJ5HGf6yjvnZ9bdVkmqgmHaqmph4tiIv7L2WGpzZ5zhmj0rFIaEb2f47/ryPAM7MW6gF1w==",
+  "success": false,
+  "projectFilePath": "C:\\repos\\cfrepo1\\app1\\app1\\app1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.VisualStudio.Azure.Containers.Tools.Targets. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
